@@ -65,4 +65,4 @@ streamlit run app.py
 AI Automation Associate · Vendasta  
 Former ML Data Associate · Amazon (Rufus, Alexa+)  
 
-[LinkedIn](https://linkedin.com/in/harikrishnan-venkatesan) · [GitHub](https://github.com/Harikrishnan006) · [Hugging Face](https://huggingface.co/Harikrishnan006)
+[LinkedIn](https://www.linkedin.com/in/harikrishnan-venkatesan-8946a3215) · [GitHub](https://github.com/Harikrishnan006) · [Hugging Face](https://huggingface.co/Harikrishnan006)
